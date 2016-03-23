@@ -8,6 +8,10 @@
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
     "demo_sites": "",
+<<<<<<< HEAD
 	"siteurl": "http://moodle.ksu.edu.tw",
+=======
+	"siteurl": "https://moodle.ksu.edu.tw",
+>>>>>>> 2842b07287e77924a7697ba803840378f045d645
     "gcmpn": "694767596569"
 }
